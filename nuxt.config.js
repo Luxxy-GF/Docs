@@ -7,7 +7,7 @@ export default theme({
     routes: ['/'] // give the first url to start crawling
   },
   router: {
-    base: '/docs/'
+    base: '/Docs/'
   },
   i18n: {
     locales: () => [
